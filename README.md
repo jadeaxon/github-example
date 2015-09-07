@@ -3,6 +3,8 @@ GitHub Example
 
 This is a simple example repository that will be used to show how to get started with GitHub.
 
+Editing on its own topic branch.
+
 How to Contribute
 =================
 
